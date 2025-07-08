@@ -1,5 +1,11 @@
 # Exemple d'Alertes
 
+> [!NOTE]
+>
+> hello ceci est une note
+
+## Autres façons
+
 !!! note
     C'est une note.
 
