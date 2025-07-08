@@ -7,6 +7,10 @@
   - [No](#no)
 <!-- TOC -->
 
+[View Site](https://log1k-png.github.io/pages/)
+
+<https://log1k-png.github.io/pages/>
+
 ```mermaid
 ---
 title: Component Class Diagram
