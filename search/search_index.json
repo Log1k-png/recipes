@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Exemple d'Alertes","text":"<p>Note</p> <p>C'est une note.</p> <p>Tip</p> <p>C'est une astuce.</p> <p>Warning</p> <p>Attention, probl\u00e8me possible.</p> <p>Danger</p> <p>Danger critique.</p> <p>Et un emoji : </p>"}]}
