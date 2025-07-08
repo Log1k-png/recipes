@@ -1,0 +1,8 @@
+site_name: Documentation
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
