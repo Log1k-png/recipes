@@ -1,21 +1,3 @@
-# Exemple d'Alertes
+# Liste de recettes
 
-> [!NOTE]
->
-> hello ceci est une note
-
-## Autres façons
-
-!!! note
-    C'est une note.
-
-!!! tip
-    C'est une astuce.
-
-!!! warning
-    Attention, problème possible.
-
-!!! danger
-    Danger critique.
-
-Et un emoji : :rocket:
+Voilà mon catalogue de recettes en pages github parce que pourquoi pas après tout. :cake: !
