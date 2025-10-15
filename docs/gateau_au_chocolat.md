@@ -1,4 +1,4 @@
-# Gateau au chocolat
+# Gâteau au chocolat
 
 ## Ingrédients
 
