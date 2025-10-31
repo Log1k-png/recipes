@@ -10,7 +10,7 @@
 - 3 oeufs
 - 100g de farine
 
-## Etapes
+## Étapes
 
 1. Préchauffez votre four à 150°C chaleur tournante.
 1. Dans un saladier, ajoutez le chocolat en morceau et le beurre découpé et faites fondre au micro-ondes.
