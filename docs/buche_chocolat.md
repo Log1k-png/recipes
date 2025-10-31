@@ -2,7 +2,7 @@
 
 ## Ingrédients
 
-- 1 [biscuit roulé](/docs/biscuit_roule.md)
+- 1 [biscuit roulé](./biscuit_roule.md)
 - 250g de chocolat  
 - 200g de beurre  
 

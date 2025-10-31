@@ -4,14 +4,17 @@
 
 - 110g de beurre  
 - 75g de flocons d’avoine  
-- 1u banane écrasée (100g)
+- 2u banane écrasée (200g)
 - 40g de sucre roux  
 - 90g de sucre blanc  
-- 105g de farine  
-- 1 c. à c. de levure chimique  
-- 1 c. à c. de cannelle  
+- 125g de farine  
+- ½ sachet de levure chimique  
+- 1 c. à s. de cannelle  
 - ½ c. à c. de sel  
 - 75g de pépites de chocolat
+
+!!! tip
+    Vous pouvez Multiplier les bananes par 2 et diviser par 2 le beurre et le sucre
 
 ## Étapes
 

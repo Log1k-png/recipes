@@ -2,8 +2,8 @@
 
 ## Ingrédients
 
-- 1u de [pâte sablée](/docs/pate_sablee.md)
-- 1u de [crème citron](/docs/creme_citron.md)  
+- 1u de [pâte sablée](./pate_sablee.md)
+- 1u de [crème citron](./creme_citron.md)  
 - 3u de blancs d’oeufs  
 - 75g de sucre  
 
