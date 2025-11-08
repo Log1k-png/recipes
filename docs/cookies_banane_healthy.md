@@ -4,7 +4,7 @@
 
 - 55g de beurre  
 - 75g de flocons d’avoine  
-- 2u banane écrasée (200g)
+- 2u banane écrasée (~200g)
 - 20g de sucre roux  
 - 45g de sucre blanc  
 - 125g de farine  
