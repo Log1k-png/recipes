@@ -11,7 +11,7 @@
 
 1. Séparer les blancs des jaunes d'oeufs.
 1. Faire fondre le chocolat au bain marie.
-1. Incorporer les jaunes au sucre.
+1. Incorporer les jaunes et le sucre hors du feu.
 1. Battre les blancs en neige ferme.
 1. Ajouter délicatement les blancs au mélange avec une spatule.
 1. Servir dans les récipients et réserver au frais.
