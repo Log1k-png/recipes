@@ -28,3 +28,10 @@
 8. Mélanger le tout.
 9. Diviser la pâte dans les moules à muffins (≈70 g de pâte par moule)
 10. Faire cuire 13 minutes
+
+### Macros
+
+|           | Pour 1 muffin |
+|-----------|---------------|
+| Energie   | 294 kcal      |
+| Protéines | 7 g           |
