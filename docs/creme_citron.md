@@ -12,5 +12,6 @@
 ## Étapes
 
 1. Mélangez les oeufs, les jaunes d’oeufs, la crème fraîche et le sucre.  
-1. Ajoutez le jus des 2 citrons et les zestes râpés finement.  
+1. Ajoutez le jus des 2 citrons et les zestes râpés finement.
+1. Remuez à feu moyen jusqu'à épaississement.
 1. Conservez au réfrigérateur.  
