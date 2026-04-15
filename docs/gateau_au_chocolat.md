@@ -15,6 +15,7 @@
 1. Préchauffez votre four à 150°C chaleur tournante.
 1. Dans un saladier, ajoutez le chocolat en morceau et le beurre découpé et faites fondre au micro-ondes.
 1. Ajoutez ensuite dans l'ordre, en mélangeant entre chaque ingrédients : sel, sucre, sucre vanillé, oeufs, farine.
+1. Versez la pâte dans un moule en forme de couronne.
 1. Enfournez pendant 30 minutes.
 
 !!! note
