@@ -5,7 +5,7 @@
 - 250g de farine  
 - ½ sachet de levure chimique
 - 1 càc de sel
-- 80ml d'huile
+- 80ml d'huile ou beurre
 - 100ml d'eau chaude  
 
 ## Étapes

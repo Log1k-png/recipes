@@ -1,4 +1,4 @@
-# Prais-brest
+# Paris-brest
 
 ## Ingrédients
 
